@@ -1,0 +1,14 @@
+.signup-wrapper {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-box {
+    width: 800px;
+    border: 2px solid grey;
+    border-radius: 2px;
+    padding: 10px
+}
